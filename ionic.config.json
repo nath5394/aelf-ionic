@@ -1,5 +1,7 @@
 {
-  "name": "ionic_bible",
-  "integrations": {},
+  "name": "AELF_ionic",
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

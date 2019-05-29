@@ -1,7 +1,8 @@
 {
   "name": "AELF_ionic",
   "integrations": {
-    "cordova": {}
+    "cordova": {},
+    "capacitor": {}
   },
   "type": "angular"
 }

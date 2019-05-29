@@ -61,7 +61,7 @@ var HomePageModule = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<ion-header>\n  <ion-toolbar>\n    <ion-title>\n      AELF ionic pour iOS - Beta \n    </ion-title>\n  </ion-toolbar>\n</ion-header>\n\n<ion-content>\n  \n    <iframe src=\"../../assets/www/bible.html\" width=\"100%\" height=\"100%\">\n      <p>Your browser does not support iframes.</p>\n    </iframe>\n  \n</ion-content>\n"
+module.exports = "<ion-header>\n  <ion-toolbar>\n    <ion-title>\n      AELF Beta \n    </ion-title>\n  </ion-toolbar>\n</ion-header>\n\n<ion-content>\n  \n    <iframe src=\"../../assets/www/bible.html\" width=\"100%\" height=\"100%\">\n      <p>Your browser does not support iframes.</p>\n    </iframe>\n  \n</ion-content>\n"
 
 /***/ }),
 
@@ -72,7 +72,7 @@ module.exports = "<ion-header>\n  <ion-toolbar>\n    <ion-title>\n      AELF ion
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "bible-iframe {\n  width: 100%; }\n\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvaG9tZS9DOlxcVXNlcnNcXG5oYW5uZWJlcnRcXERldlxcaW9uaWNfYmlibGVcXGlvbmljX2JpYmxlL3NyY1xcYXBwXFxob21lXFxob21lLnBhZ2Uuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLFlBQVcsRUFFZCIsImZpbGUiOiJzcmMvYXBwL2hvbWUvaG9tZS5wYWdlLnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyJiaWJsZS1pZnJhbWUge1xuICAgIHdpZHRoOiAxMDAlO1xuICAgIFxufVxuIl19 */"
+module.exports = "bible-iframe {\n  width: 100%; }\n\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9uaGFubmViZXJ0L0Rldi9hZWxmLWlvbmljL3NyYy9hcHAvaG9tZS9ob21lLnBhZ2Uuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLFdBQVcsRUFBQSIsImZpbGUiOiJzcmMvYXBwL2hvbWUvaG9tZS5wYWdlLnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyJiaWJsZS1pZnJhbWUge1xuICAgIHdpZHRoOiAxMDAlO1xuICAgIFxufVxuIl19 */"
 
 /***/ }),
 

@@ -1092,7 +1092,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_1__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\nhannebert\Dev\ionic_bible\ionic_bible\src\main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! /Users/nhannebert/Dev/aelf-ionic/src/main.ts */"./src/main.ts");
 
 
 /***/ })

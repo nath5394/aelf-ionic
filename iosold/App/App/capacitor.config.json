@@ -1,0 +1,7 @@
+{
+  "appId": "co.epitre.aelf.ionic",
+  "appName": "AELF_ionic",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "src"
+}

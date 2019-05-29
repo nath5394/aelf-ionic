@@ -2,7 +2,7 @@
 
 platform :ios, '9.0'
 
-target 'C:\Users\nhannebert\Dev\aelf-ionic\platforms\ios\AELF ionic' do
-	project 'C:\Users\nhannebert\Dev\aelf-ionic\platforms\ios\AELF ionic.xcodeproj'
+target 'AELF ionic' do
+	project 'AELF ionic.xcodeproj'
 
 end
